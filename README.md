@@ -9,7 +9,7 @@ The purpose of this repository is to keep track of my progress during the [Elixi
 - [x] Basics
 - [x] Collections
 - [x] Enum
-- [ ] Pattern Matching
+- [x] Pattern Matching
 - [ ] Control Structures
 - [ ] Functions
 - [ ] Pipe Operator
