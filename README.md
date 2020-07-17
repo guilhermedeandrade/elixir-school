@@ -8,7 +8,7 @@ The purpose of this repository is to keep track of my progress during the [Elixi
 
 - [x] Basics
 - [x] Collections
-- [ ] Enum
+- [x] Enum
 - [ ] Pattern Matching
 - [ ] Control Structures
 - [ ] Functions
